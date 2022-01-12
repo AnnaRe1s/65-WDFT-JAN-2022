@@ -1,3 +1,15 @@
+/* 
+"SUMARIO"
+ 
+LINHA 13 - Funções
+LINHA 99 - Arrays
+LINHA 234 - Map
+
+
+
+*/ 
+
+
 // Funções
 
 // Funções são sub-rotinas, ou seja, trechos de código que precisamos usar frequentemente, e são abstraído pra dentro de funções para evitar repetição de código.
@@ -221,9 +233,6 @@ console.log(table)
 
 // MAP
 const arr = [1, 3, 5, 8, 9, 2, 14, 15, 24, 38, 61]
-
-
-// MAP
 
 // O map vai executar uma função callback para cada elemento da array!
 // O map vai retornar uma array de resultados da execução dessa callback!
