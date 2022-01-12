@@ -1,4 +1,8 @@
 # 65-WDFT-JAN-2022
 
-## Exercicios feitos em sala!
-usem como referencia!
+## Usem como referencia!
+
+O conteudo descrito nesse repositorio sao:
+- Os materiais desenvolvidos em sala 
+- Materiais Desenvolvido em outras turmas 
+-  Dicas do LT e TA`S
