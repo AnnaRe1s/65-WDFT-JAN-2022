@@ -3,7 +3,7 @@
 
 LINHA 14 - FILTER
 LINHA 43 - OBJETOS
-LINHA 234 - Map
+LINHA 124 - EXEMPLO EM AULA 
 
 
 */ 
@@ -52,8 +52,9 @@ const obj = {city: 'Indaiatuba', name: 'Pedro' }
 const person = {
   name: 'Mario',
   isMarried: true, 
-  address: {country: 'Italy', city: 'Napole'},            favoriteFoods: ['Pasta', 'Wine', 'Pizza'],
- age: 60, 
+  address: {country: 'Italy', city: 'Napole'},
+  favoriteFoods: ['Pasta', 'Wine', 'Pizza'],
+  age: 60, 
 }
 
 // Acessando uma chave de um objeto
@@ -116,3 +117,34 @@ const school = [
 ]
 
 console.log(school[1].students[1]) // Karen
+
+
+
+
+// EXEMPLO EM AULA 
+const userProfile = {
+    name: "Alexandre",
+    age: 25,
+    isCute: true,
+    address: {
+      street: "Rua Lalaland",
+      n: 10,
+      postalCode: 4000000
+    }
+  }
+  
+  
+  const updateProfile = {
+    field: "age",
+    newContent: 26
+  }
+  
+  
+  function updateUserProfile (profile, updateObj) {
+    profile[updateObj.field] = updateObj.newContent
+    // userProfile[updateProfile.field]
+  }
+  
+  updateUserProfile(userProfile, updateProfile)
+  
+  console.log(userProfile)
