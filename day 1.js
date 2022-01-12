@@ -1,4 +1,20 @@
-// Aula 01 - Intro JS
+/* 
+"SUMARIO"
+ 
+LINHA 18 - Console.log
+LINHA 24 - Variaveis
+LINHA 88 - TIPOS JAVASCRIPT
+LINHA 183 - OPERADORES DE COMPARACAO
+LINHA 238 - LOOPS E CONDICIONAIS 
+
+
+*/ 
+
+
+
+
+
+
 // Mensagem por log ao usuário
 
 console.log("Olá. Bem-vindo");
