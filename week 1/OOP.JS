@@ -165,3 +165,4 @@ const employee1 = {
     
     // Dentro da classe "filha", podemos sobrescrever atributos ou métodos da classe "mãe"
     
+    
