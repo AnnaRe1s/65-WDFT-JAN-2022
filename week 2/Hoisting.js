@@ -19,5 +19,4 @@ const exp = function() {
   }
   
 exp() // Aqui funcionaria normalmente por estar abaixo da declaração
-  
-
+ 

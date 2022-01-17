@@ -20,3 +20,4 @@ console.log(number); //=> 10
 
 // Leia mais sobre Shadowwing acessando 
 // https://mayuminishimoto.medium.com/understanding-variable-shadowing-with-javascript-58fc108c8f03
+
