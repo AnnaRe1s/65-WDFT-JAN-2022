@@ -295,10 +295,3 @@ const stock = [
   })
   
   console.log(newArray)
-
-
-
-
-
-
-  
