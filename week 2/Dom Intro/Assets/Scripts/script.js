@@ -45,6 +45,7 @@ const blueTags = document.getElementsByClassName("blue");
 
 const paragraphs = document.getElementsByTagName("p");
 
+
 // MANIPULACAO
 
 // Manipulação do conteúdo de texto de uma tag
