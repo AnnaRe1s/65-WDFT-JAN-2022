@@ -327,4 +327,3 @@ const cidadePreferida = 'Las Vegas';
 for(valor of cidadePreferida){
   console.log(valor);
 }
-
